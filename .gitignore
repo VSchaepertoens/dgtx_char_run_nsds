@@ -1,0 +1,16 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Rprofile
+
+/data
+/analysis
+/figures
+/scripts/utils/calibration_curve_calculate_concentration_UDP-GlcNAc.R
+
+data.zip
+analysis.zip
+
+*.pdf
+
